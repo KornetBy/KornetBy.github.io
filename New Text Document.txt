@@ -1,0 +1,16 @@
+.card*3>.cardimg+.cardtitle+.card__content
+<div class="card">
+                    <div class="cardimg"></div>
+                    <div class="cardtitle"></div>
+                    <div class="cardcontent"></div>
+                </div>
+                <div class="card">
+                    <div class="cardimg"></div>
+                    <div class="cardtitle"></div>
+                    <div class="cardcontent"></div>
+                </div>
+                <div class="card">
+                    <div class="cardimg"></div>
+                    <div class="cardtitle"></div>
+                    <div class="card__content"></div>
+                </div>
